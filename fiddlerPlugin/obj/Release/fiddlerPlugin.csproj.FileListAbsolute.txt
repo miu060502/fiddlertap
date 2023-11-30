@@ -1,0 +1,2 @@
+V:\prj\fiddlerPlugin\fiddlerPlugin\obj\Release\fiddlerPlugin.csproj.AssemblyReference.cache
+V:\prj\fiddlerPlugin\fiddlerPlugin\obj\Release\fiddlerPlugin.csproj.CoreCompileInputs.cache
